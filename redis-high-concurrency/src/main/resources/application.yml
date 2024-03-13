@@ -1,8 +1,7 @@
 spring:
   application:
     name: redis-high-concurrency
+
   data:
     redis:
-      host: localhost
       database: 2
-
